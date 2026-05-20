@@ -14,6 +14,6 @@ async function start() {
   }
 }
 
-const x=1
+// const x=1
 
 void start();
